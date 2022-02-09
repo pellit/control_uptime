@@ -18,7 +18,7 @@ status-website:
   cname: demo.upptime.js.org
   #cname: pellit.github.io
   #baseUrl: /control_uptime
-  logoUrl: https://pellit.com.ar/wp-content/uploads/2021/06/Fondo_horizontal_photos.jpg
+  logoUrl: https://pellit.com.ar/wp-content/uploads/2021/06/cropped-Fondo-claro.png
   #logourl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
