@@ -1,5 +1,5 @@
 # Change these first
-owner: pellit # Your GitHub organization or username, where this repository lives
+owner: Pellit # Your GitHub organization or username, where this repository lives
 repo: control_uptime # The name of this repository
 
 sites:
@@ -9,7 +9,7 @@ sites:
     url: https://pellit.com.ar/
   - name: Grafana_panel
     url: http://201.253.22.2:3000/login
-  - name: Server_status
+  - name: status_online
     url: http://201.253.22.2:9999/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
@@ -18,8 +18,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  #cname: pellit.github.io
-  baseUrl: /control_uptime
+  cname: pellit.github.io
+  #baseUrl: /control_uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
