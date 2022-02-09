@@ -15,7 +15,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  #cname: demo.upptime.js.org
   #cname: pellit.github.io
   #baseUrl: /control_uptime
   logoUrl: https://pellit.com.ar/wp-content/uploads/2022/02/logo_chico.jpg
@@ -23,7 +23,7 @@ status-website:
   name: Status online - Sities
   introTitle: "Page powered by github for control to state online for sites administrated with Pellit."
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
