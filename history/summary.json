@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4668,
-    "timeDay": 4668,
-    "timeWeek": 4668,
-    "timeMonth": 4668,
-    "timeYear": 4668,
+    "time": 4716,
+    "timeDay": 4716,
+    "timeWeek": 4716,
+    "timeMonth": 4716,
+    "timeYear": 4716,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2829,
-    "timeDay": 2829,
-    "timeWeek": 2829,
-    "timeMonth": 2829,
-    "timeYear": 2829,
+    "time": 2676,
+    "timeDay": 2676,
+    "timeWeek": 2676,
+    "timeMonth": 2676,
+    "timeYear": 2676,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 908,
-    "timeWeek": 908,
-    "timeMonth": 908,
-    "timeYear": 908,
+    "time": 901,
+    "timeDay": 901,
+    "timeWeek": 901,
+    "timeMonth": 901,
+    "timeYear": 901,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/201.253.22.2",
     "slug": "server-status",
     "status": "down",
-    "uptime": "35.23%",
-    "uptimeDay": "35.23%",
-    "uptimeWeek": "35.23%",
-    "uptimeMonth": "35.23%",
-    "uptimeYear": "35.23%",
+    "uptime": "19.32%",
+    "uptimeDay": "19.32%",
+    "uptimeWeek": "19.32%",
+    "uptimeMonth": "19.32%",
+    "uptimeYear": "19.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-09": 3
+      "2022-02-09": 6
     }
   },
   {
