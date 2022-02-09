@@ -10,7 +10,7 @@ sites:
   - name: Grafana_panel
     url: http://201.253.22.2:3000/login
   - name: Server_online
-    url: http://201.253.22.2:9999/
+    url: http://201.253.22.2:9999
 
 assignees: # Users to assign downtime issues (optional)
   - pellit
