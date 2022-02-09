@@ -9,10 +9,8 @@ sites:
     url: https://pellit.com.ar/
   - name: Grafana_panel
     url: http://201.253.22.2:3000/login
-  - name: status_online
+  - name: Server_online
     url: http://201.253.22.2:9999/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
