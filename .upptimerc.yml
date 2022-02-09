@@ -12,6 +12,9 @@ sites:
   - name: Server_online
     url: http://201.253.22.2:9999/
 
+assignees: # Users to assign downtime issues (optional)
+  - pellit
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
