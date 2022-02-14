@@ -13,14 +13,14 @@ sites:
     url: http://201.253.22.2:9999
 
 assignees: # Users to assign downtime issues (optional)
-  - pellit
+ # - pellit
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
   #cname: pellit.github.io
-  ·baseUrl: /control_uptime
+  #·baseUrl: /control_uptime
   logoUrl: https://pellit.com.ar/wp-content/uploads/2022/02/logo_chico.jpg
   #logourl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status online - Sites
