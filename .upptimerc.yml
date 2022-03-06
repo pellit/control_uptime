@@ -4,11 +4,11 @@ repo: control_uptime # The name of this repository
 
 sites:
   - name: MU-PAGE
-    url: PAGE_MUSIC
+    url: $PAGE_MUSIC
   - name: PELLIT-PAGE
     url: https://pellit.com.ar/
   - name: GR-GRA
-    url: API_GRAF
+    url: $API_GRAF
   - name: GR-Server
     url: $API_SE
   - name: PELLIT_TA
