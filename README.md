@@ -1,4 +1,4 @@
-# [📈 PELLIT - Live Status](https://github.com/pellit/control_uptime): <!--live status--> ** ---> Partial outage**
+# [📈 PELLIT - Live Status](https://github.com/pellit/control_uptime): <!--live status--> **Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
