@@ -8,11 +8,11 @@ sites:
   - name: Pellit
     url: https://pellit.com.ar/
   - name: Grafana_panel
-    url: http://201.253.22.2:3000/login
+    url: API_GRAF
   - name: Server_online
-    url: http://201.253.22.2:9999
-  - name: Prenotami
-    url: https://prenotami.esteri.it/
+    url: $API_SE
+  - name: PELLIT_TA
+    url: $API_TA
 
 assignees: # Users to assign downtime issues (optional)
  # - pellit
