@@ -40,36 +40,40 @@
     "url": "$API_GRAF",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gr-gra",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 644,
     "timeDay": 644,
     "timeWeek": 644,
     "timeMonth": 644,
     "timeYear": 644,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 1
+    }
   },
   {
     "name": "GR-Server",
     "url": "$API_SE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gr-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 803,
     "timeDay": 803,
     "timeWeek": 803,
     "timeMonth": 803,
     "timeYear": 803,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-07": 0
+    }
   },
   {
     "name": "PELLIT_TA",
