@@ -40,19 +40,19 @@
     "url": "$API_GRAF",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gr-gra",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 644,
-    "timeDay": 644,
-    "timeWeek": 644,
-    "timeMonth": 644,
-    "timeYear": 644,
+    "status": "up",
+    "uptime": "50.54%",
+    "uptimeDay": "50.54%",
+    "uptimeWeek": "50.54%",
+    "uptimeMonth": "50.54%",
+    "uptimeYear": "50.54%",
+    "time": 713,
+    "timeDay": 713,
+    "timeWeek": 713,
+    "timeMonth": 713,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-03-07": 1
+      "2022-03-07": 268
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$API_SE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gr-server",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 803,
-    "timeDay": 803,
-    "timeWeek": 803,
-    "timeMonth": 803,
-    "timeYear": 803,
+    "status": "up",
+    "uptime": "50.62%",
+    "uptimeDay": "50.62%",
+    "uptimeWeek": "50.62%",
+    "uptimeMonth": "50.62%",
+    "uptimeYear": "50.62%",
+    "time": 874,
+    "timeDay": 874,
+    "timeWeek": 874,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2022-03-07": 0
+      "2022-03-07": 267
     }
   },
   {
