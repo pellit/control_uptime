@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gr-gra",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "97.90%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
     "time": 748,
     "timeDay": 656,
     "timeWeek": 750,
@@ -63,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gr-server",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "98.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "97.90%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "98.05%",
     "time": 927,
     "timeDay": 805,
     "timeWeek": 931,
@@ -84,9 +84,9 @@
     "url": "$API_TA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pellit-ta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,6 +95,8 @@
     "timeWeek": 368,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-19": 0
+    }
   }
 ]
