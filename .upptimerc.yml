@@ -7,7 +7,7 @@ sites:
     url: $PAGE_MUSIC
   - name: PELLIT-PAGE
     url: https://pellit.com.ar/
-  - name: PELLIT-PAGE
+  - name: HOSS-PAGE
     url: $PAGE-HOSS
   - name: GR-GRA
     url: $API_GRAF
