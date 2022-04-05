@@ -8,7 +8,7 @@ sites:
   - name: PELLIT-PAGE
     url: https://pellit.com.ar/
   - name: HOSS-PAGE
-    url: $PAGE-HOSS
+    url: $PAGE_HOSS
   - name: GR-GRA
     url: $API_GRAF
   - name: GR-Server
