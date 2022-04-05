@@ -22,19 +22,19 @@
     "url": "https://pellit.com.ar/",
     "icon": "https://favicons.githubusercontent.com/pellit.com.ar",
     "slug": "pellit-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2068,
-    "timeDay": 1924,
-    "timeWeek": 2011,
-    "timeMonth": 2068,
-    "timeYear": 2068,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2082,
+    "timeDay": 2240,
+    "timeWeek": 2079,
+    "timeMonth": 2082,
+    "timeYear": 2082,
     "dailyMinutesDown": {
-      "2022-04-05": 0
+      "2022-04-05": 13
     }
   },
   {
