@@ -4,19 +4,19 @@
     "url": "$PAGE_MUSIC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mu-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3072,
-    "timeDay": 2522,
-    "timeWeek": 2877,
-    "timeMonth": 3072,
-    "timeYear": 3072,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3034,
+    "timeDay": 2355,
+    "timeWeek": 2769,
+    "timeMonth": 3034,
+    "timeYear": 3034,
     "dailyMinutesDown": {
-      "2022-04-06": 0
+      "2022-04-06": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://pellit.com.ar/",
     "icon": "https://favicons.githubusercontent.com/pellit.com.ar",
     "slug": "pellit-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2010,
-    "timeDay": 1413,
-    "timeWeek": 1840,
-    "timeMonth": 2010,
-    "timeYear": 2010,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2005,
+    "timeDay": 1495,
+    "timeWeek": 1839,
+    "timeMonth": 2005,
+    "timeYear": 2005,
     "dailyMinutesDown": {
-      "2022-04-06": 0
+      "2022-04-06": 13
     }
   },
   {
