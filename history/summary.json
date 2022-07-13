@@ -49,19 +49,19 @@
     "url": "$PAGE_HOSS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hoss-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 743,
-    "timeDay": 566,
-    "timeWeek": 917,
-    "timeMonth": 757,
+    "timeDay": 630,
+    "timeWeek": 889,
+    "timeMonth": 755,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 9
     }
   },
   {
