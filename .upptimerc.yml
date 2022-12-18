@@ -13,7 +13,7 @@ sites:
     url: $API_GRAF
   - name: GR-Server
     url: $API_SE
-  - name: PELLIT_TA
+  - name: PELLIT_TARMM 
     url: $API_TA
 
 assignees: # Users to assign downtime issues (optional)
