@@ -11,10 +11,13 @@ sites:
     url: $PAGE_HOSS
   - name: GR-GRA
     url: $API_GRAF
-  - name: GR-Server
-    url: $API_SE
+  - name: GR-Server-Fibercorp
+    url: $API_SEF
+  - name: GR-Server-Claro
+    url: $API_SEC
   - name: PELLIT_TARMM 
     url: $API_TA
+
 
 assignees: # Users to assign downtime issues (optional)
  # - pellit
