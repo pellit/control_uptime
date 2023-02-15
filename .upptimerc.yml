@@ -12,7 +12,7 @@ sites:
   - name: GR-GRA
     url: $API_GRAF
   - name: GR-Server-Fibercorp
-    url: $API_SEF
+    url: https://b88f0afb62e5.sn.mynetname.net
   - name: GR-Server-Claro
     url: $API_SEC
   - name: PELLIT_TARMM 
