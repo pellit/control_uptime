@@ -17,6 +17,10 @@ sites:
     url: $API_SEC
   - name: PELLIT_TARMM 
     url: $API_TA
+  - name: EFFICAST_APP
+    url: $EFFICAST_APP
+  - name: EFFICAST_THIN
+    url: $EFFICAST_THIN
 
 
 assignees: # Users to assign downtime issues (optional)
