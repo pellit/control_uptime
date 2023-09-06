@@ -446,19 +446,19 @@
     "url": "$EFFICAST_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "efficast-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 844,
-    "timeDay": 743,
-    "timeWeek": 800,
-    "timeMonth": 844,
-    "timeYear": 844,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 875,
+    "timeDay": 1028,
+    "timeWeek": 888,
+    "timeMonth": 875,
+    "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-09-06": 0
+      "2023-09-06": 8
     }
   },
   {
