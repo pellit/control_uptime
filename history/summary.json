@@ -222,9 +222,9 @@
     "slug": "gr-server-fibercorp",
     "status": "up",
     "uptime": "79.46%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "96.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "96.82%",
     "uptimeYear": "79.46%",
     "time": 629,
     "timeDay": 440,
@@ -232,7 +232,6 @@
     "timeMonth": 581,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2023-10-16": 10,
       "2023-10-10": 21,
       "2023-10-08": 27,
       "2023-10-03": 718,
@@ -314,7 +313,7 @@
       "2023-03-30": 337,
       "2023-03-29": 1331,
       "2023-03-28": 67,
-      "2023-03-22": 21
+      "2023-03-22": 52
     }
   },
   {
@@ -416,7 +415,7 @@
     "uptime": "92.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.97%",
+    "uptimeMonth": "64.15%",
     "uptimeYear": "92.34%",
     "time": 596,
     "timeDay": 0,
