@@ -1,7 +1,7 @@
 url: $EFFICAST_APP
-status: up
-code: 200
-responseTime: 1500
-lastUpdated: 2023-11-30T15:37:57.156Z
+status: down
+code: 502
+responseTime: 889
+lastUpdated: 2023-11-30T22:54:05.213Z
 startTime: 2023-08-16T18:13:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
