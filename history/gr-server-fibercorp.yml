@@ -1,7 +1,7 @@
 url: $API_SEF
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-02T19:50:19.940Z
+status: up
+code: 200
+responseTime: 701
+lastUpdated: 2024-01-02T19:55:38.392Z
 startTime: 2023-02-15T17:56:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
