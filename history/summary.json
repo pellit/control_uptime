@@ -632,18 +632,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "autogestion",
     "status": "down",
-    "uptime": "1.48%",
-    "uptimeDay": "1.48%",
-    "uptimeWeek": "1.48%",
-    "uptimeMonth": "1.48%",
-    "uptimeYear": "1.48%",
+    "uptime": "1.40%",
+    "uptimeDay": "1.40%",
+    "uptimeWeek": "1.40%",
+    "uptimeMonth": "1.40%",
+    "uptimeYear": "1.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 1
     }
   }
 ]
