@@ -219,7 +219,7 @@
     "uptime": "68.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "43.41%",
+    "uptimeMonth": "43.42%",
     "uptimeYear": "68.15%",
     "time": 618,
     "timeDay": 564,
@@ -382,7 +382,7 @@
     "timeMonth": 0,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2024-01-03": 1073,
+      "2024-01-03": 1076,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -542,7 +542,7 @@
     "timeMonth": 0,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2024-01-03": 1073,
+      "2024-01-03": 1076,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -631,19 +631,19 @@
     "url": "$API_AM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "autogestion",
-    "status": "down",
-    "uptime": "1.40%",
-    "uptimeDay": "1.40%",
-    "uptimeWeek": "1.40%",
-    "uptimeMonth": "1.40%",
-    "uptimeYear": "1.40%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "7.83%",
+    "uptimeDay": "7.83%",
+    "uptimeWeek": "7.83%",
+    "uptimeMonth": "7.83%",
+    "uptimeYear": "7.83%",
+    "time": 1033,
+    "timeDay": 1033,
+    "timeWeek": 1033,
+    "timeMonth": 1033,
+    "timeYear": 1033,
     "dailyMinutesDown": {
-      "2024-01-03": 1
+      "2024-01-03": 4
     }
   }
 ]
