@@ -71,9 +71,9 @@
     "slug": "hoss-page",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.85%",
     "time": 842,
     "timeDay": 1931,
@@ -81,7 +81,7 @@
     "timeMonth": 942,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2024-01-16": 22,
+      "2024-01-16": 17,
       "2023-09-12": 20,
       "2023-09-06": 591,
       "2023-09-05": 59,
@@ -99,7 +99,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.39%",
+    "uptimeYear": "76.40%",
     "time": 1534,
     "timeDay": 0,
     "timeWeek": 0,
@@ -195,8 +195,7 @@
       "2023-01-21": 1440,
       "2023-01-20": 1025,
       "2023-01-19": 966,
-      "2023-01-18": 986,
-      "2023-01-17": 958
+      "2023-01-18": 986
     }
   },
   {
@@ -208,7 +207,7 @@
     "uptime": "69.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.68%",
-    "uptimeMonth": "84.13%",
+    "uptimeMonth": "84.20%",
     "uptimeYear": "69.16%",
     "time": 616,
     "timeDay": 656,
@@ -373,7 +372,8 @@
     "timeMonth": 0,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2024-01-16": 1432,
+      "2024-01-17": 22,
+      "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -535,7 +535,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pellit-tarmm",
     "status": "down",
-    "uptime": "77.82%",
+    "uptime": "77.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -546,7 +546,8 @@
     "timeMonth": 0,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2024-01-16": 1432,
+      "2024-01-17": 22,
+      "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
