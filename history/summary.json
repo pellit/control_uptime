@@ -101,7 +101,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.95%",
+    "uptimeYear": "81.96%",
     "time": 1615,
     "timeDay": 0,
     "timeWeek": 0,
@@ -181,18 +181,19 @@
     "url": "$API_SEF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gr-server-fibercorp",
-    "status": "up",
-    "uptime": "70.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.46%",
-    "uptimeYear": "70.57%",
+    "status": "down",
+    "uptime": "70.60%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "88.45%",
+    "uptimeYear": "70.60%",
     "time": 611,
     "timeDay": 448,
     "timeWeek": 546,
     "timeMonth": 529,
     "timeYear": 611,
     "dailyMinutesDown": {
+      "2024-02-10": 1,
       "2024-01-22": 657,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -333,8 +334,7 @@
       "2023-04-04": 610,
       "2023-04-03": 27,
       "2023-04-02": 394,
-      "2023-04-01": 372,
-      "2023-03-31": 183
+      "2023-04-01": 372
     }
   },
   {
@@ -354,7 +354,7 @@
     "timeMonth": 0,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2024-02-10": 831,
+      "2024-02-10": 875,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
@@ -545,14 +545,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.30%",
+    "uptimeYear": "69.29%",
     "time": 589,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2024-02-10": 831,
+      "2024-02-10": 875,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
@@ -679,18 +679,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "autogestion",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 828,
     "timeDay": 861,
     "timeWeek": 829,
     "timeMonth": 813,
     "timeYear": 828,
-    "dailyMinutesDown": {
-      "2024-02-10": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
