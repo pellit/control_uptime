@@ -182,11 +182,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gr-server-fibercorp",
     "status": "up",
-    "uptime": "70.56%",
+    "uptime": "70.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.46%",
-    "uptimeYear": "70.56%",
+    "uptimeYear": "70.57%",
     "time": 611,
     "timeDay": 448,
     "timeWeek": 546,
@@ -354,7 +354,7 @@
     "timeMonth": 0,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2024-02-10": 825,
+      "2024-02-10": 831,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
@@ -552,7 +552,7 @@
     "timeMonth": 0,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2024-02-10": 825,
+      "2024-02-10": 831,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
@@ -678,19 +678,19 @@
     "url": "$API_AM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "autogestion",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 824,
-    "timeDay": 778,
-    "timeWeek": 816,
-    "timeMonth": 808,
-    "timeYear": 824,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 828,
+    "timeDay": 861,
+    "timeWeek": 829,
+    "timeMonth": 813,
+    "timeYear": 828,
     "dailyMinutesDown": {
-      "2024-02-10": 0
+      "2024-02-10": 6
     }
   }
 ]
