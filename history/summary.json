@@ -348,7 +348,7 @@
     "timeMonth": 0,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2024-02-16": 721,
+      "2024-02-16": 730,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
@@ -550,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2024-02-16": 721,
+      "2024-02-16": 730,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
@@ -682,19 +682,19 @@
     "url": "$API_AM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "autogestion",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 880,
-    "timeDay": 1314,
-    "timeWeek": 1026,
-    "timeMonth": 879,
+    "timeDay": 1267,
+    "timeWeek": 1019,
+    "timeMonth": 880,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2024-02-16": 0,
+      "2024-02-16": 9,
       "2024-02-15": 18
     }
   }
