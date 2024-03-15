@@ -1,7 +1,7 @@
 url: $PAGE_HOSS
-status: down
-code: 502
-responseTime: 537
-lastUpdated: 2024-03-15T03:27:40.459Z
+status: up
+code: 200
+responseTime: 426
+lastUpdated: 2024-03-15T03:33:41.775Z
 startTime: 2022-04-05T22:12:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
