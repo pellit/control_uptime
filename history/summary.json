@@ -6,14 +6,14 @@
     "slug": "mu-page",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "1.56%",
+    "uptimeDay": "11.93%",
     "uptimeWeek": "85.22%",
     "uptimeMonth": "96.20%",
     "uptimeYear": "99.47%",
-    "time": 2818,
-    "timeDay": 1461,
-    "timeWeek": 2693,
-    "timeMonth": 1922,
+    "time": 2813,
+    "timeDay": 1421,
+    "timeWeek": 2674,
+    "timeMonth": 1914,
     "timeYear": 2701,
     "dailyMinutesDown": {
       "2024-04-12": 1286,
@@ -31,8 +31,7 @@
       "2023-10-20": 93,
       "2023-08-25": 19,
       "2023-07-22": 74,
-      "2023-06-29": 158,
-      "2023-04-14": 86
+      "2023-06-29": 158
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.83%",
-    "time": 3790,
-    "timeDay": 2462,
-    "timeWeek": 1615,
-    "timeMonth": 1832,
-    "timeYear": 3865,
+    "time": 3788,
+    "timeDay": 1134,
+    "timeWeek": 1545,
+    "timeMonth": 1827,
+    "timeYear": 3852,
     "dailyMinutesDown": {
       "2024-03-13": 348,
       "2024-01-05": 96,
@@ -62,8 +61,7 @@
       "2023-09-10": 18,
       "2023-06-29": 179,
       "2023-04-30": 17,
-      "2023-04-29": 28,
-      "2023-04-14": 57
+      "2023-04-29": 28
     }
   },
   {
@@ -77,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.76%",
-    "time": 899,
-    "timeDay": 2941,
-    "timeWeek": 798,
-    "timeMonth": 979,
-    "timeYear": 993,
+    "time": 898,
+    "timeDay": 254,
+    "timeWeek": 749,
+    "timeMonth": 745,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2024-04-04": 526,
       "2024-01-18": 19,
@@ -99,11 +97,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gr-gra",
     "status": "down",
-    "uptime": "81.94%",
+    "uptime": "81.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.78%",
     "time": 2194,
     "timeDay": 0,
     "timeWeek": 0,
@@ -112,8 +110,7 @@
     "dailyMinutesDown": {
       "2023-04-17": 678,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 1440
+      "2023-04-15": 1440
     }
   },
   {
@@ -128,9 +125,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "71.57%",
     "time": 614,
-    "timeDay": 506,
-    "timeWeek": 758,
-    "timeMonth": 702,
+    "timeDay": 438,
+    "timeWeek": 727,
+    "timeMonth": 701,
     "timeYear": 575,
     "dailyMinutesDown": {
       "2024-04-10": 67,
@@ -272,7 +269,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gr-server-claro",
     "status": "down",
-    "uptime": "45.48%",
+    "uptime": "45.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -283,7 +280,8 @@
     "timeMonth": 0,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2024-04-12": 1288,
+      "2024-04-13": 18,
+      "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -464,8 +462,7 @@
       "2023-06-19": 15,
       "2023-04-17": 678,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 1440
+      "2023-04-15": 1440
     }
   },
   {
@@ -474,18 +471,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pellit-tarmm",
     "status": "down",
-    "uptime": "63.77%",
+    "uptime": "63.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.71%",
+    "uptimeYear": "52.68%",
     "time": 589,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 646,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2024-04-12": 1288,
+      "2024-04-13": 18,
+      "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -662,8 +660,7 @@
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
-      "2023-06-08": 396,
-      "2023-04-14": 47
+      "2023-06-08": 396
     }
   },
   {
@@ -677,11 +674,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.86%",
-    "time": 939,
-    "timeDay": 850,
-    "timeWeek": 900,
-    "timeMonth": 974,
-    "timeYear": 939,
+    "time": 937,
+    "timeDay": 615,
+    "timeWeek": 849,
+    "timeMonth": 966,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2024-03-13": 180,
       "2024-02-15": 18
