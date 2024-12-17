@@ -10,10 +10,10 @@
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.22%",
-    "time": 2330,
-    "timeDay": 1339,
-    "timeWeek": 1407,
-    "timeMonth": 1527,
+    "time": 2329,
+    "timeDay": 1462,
+    "timeWeek": 1398,
+    "timeMonth": 1522,
     "timeYear": 1635,
     "dailyMinutesDown": {
       "2024-12-10": 110,
@@ -45,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 2113,
-    "timeDay": 1512,
-    "timeWeek": 2098,
-    "timeMonth": 1822,
-    "timeYear": 1702,
+    "time": 2104,
+    "timeDay": 1492,
+    "timeWeek": 2070,
+    "timeMonth": 1815,
+    "timeYear": 1701,
     "dailyMinutesDown": {
       "2024-10-28": 22,
       "2024-10-13": 28,
@@ -61,8 +61,7 @@
       "2024-07-16": 3,
       "2024-04-18": 145,
       "2024-03-13": 348,
-      "2024-01-05": 96,
-      "2023-12-18": 17
+      "2024-01-05": 96
     }
   },
   {
@@ -72,17 +71,16 @@
     "slug": "hoss-page",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 1069,
-    "timeDay": 318,
-    "timeWeek": 425,
-    "timeMonth": 578,
-    "timeYear": 1110,
+    "time": 1068,
+    "timeDay": 379,
+    "timeWeek": 392,
+    "timeMonth": 568,
+    "timeYear": 1109,
     "dailyMinutesDown": {
-      "2024-12-16": 9,
       "2024-08-12": 68,
       "2024-08-11": 25,
       "2024-04-04": 526,
@@ -119,11 +117,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.57%",
     "uptimeMonth": "98.23%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.66%",
     "time": 594,
-    "timeDay": 438,
-    "timeWeek": 1060,
-    "timeMonth": 740,
+    "timeDay": 576,
+    "timeWeek": 1057,
+    "timeMonth": 741,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2024-12-11": 543,
@@ -152,8 +150,7 @@
       "2023-12-28": 22,
       "2023-12-25": 148,
       "2023-12-20": 1211,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   },
   {
@@ -162,18 +159,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gr-server-claro",
     "status": "down",
-    "uptime": "28.66%",
+    "uptime": "28.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 714,
+    "time": 711,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-16": 1043,
+      "2024-12-17": 30,
+      "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -536,8 +534,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   },
   {
@@ -546,18 +543,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pellit-tarmm",
     "status": "down",
-    "uptime": "42.09%",
+    "uptime": "42.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 518,
+    "time": 517,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-16": 1043,
+      "2024-12-17": 30,
+      "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -920,8 +918,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   },
   {
@@ -936,9 +933,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.92%",
     "time": 931,
-    "timeDay": 868,
-    "timeWeek": 869,
-    "timeMonth": 903,
+    "timeDay": 936,
+    "timeWeek": 860,
+    "timeMonth": 899,
     "timeYear": 931,
     "dailyMinutesDown": {
       "2024-12-10": 116,
