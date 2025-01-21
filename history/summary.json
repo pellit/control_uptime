@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
-    "time": 2275,
-    "timeDay": 1568,
-    "timeWeek": 1420,
-    "timeMonth": 1643,
+    "time": 2274,
+    "timeDay": 1648,
+    "timeWeek": 1478,
+    "timeMonth": 1650,
     "timeYear": 1640,
     "dailyMinutesDown": {
       "2024-12-10": 110,
@@ -45,9 +45,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1722,
-    "timeDay": 2103,
-    "timeWeek": 1924,
-    "timeMonth": 1587,
+    "timeDay": 1539,
+    "timeWeek": 1942,
+    "timeMonth": 1586,
     "timeYear": 1641,
     "dailyMinutesDown": {
       "2024-10-28": 22,
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1057,
-    "timeDay": 1025,
-    "timeWeek": 637,
-    "timeMonth": 867,
+    "time": 1058,
+    "timeDay": 755,
+    "timeWeek": 691,
+    "timeMonth": 840,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2024-08-12": 68,
@@ -90,7 +90,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gr-gra",
     "status": "down",
-    "uptime": "86.80%",
+    "uptime": "86.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -108,15 +108,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gr-server-fibercorp",
     "status": "up",
-    "uptime": "85.53%",
+    "uptime": "85.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.15%",
-    "uptimeYear": "98.97%",
+    "uptimeYear": "99.24%",
     "time": 589,
-    "timeDay": 530,
-    "timeWeek": 509,
-    "timeMonth": 517,
+    "timeDay": 612,
+    "timeWeek": 520,
+    "timeMonth": 521,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2025-01-17": 21,
@@ -137,8 +137,7 @@
       "2024-04-29": 54,
       "2024-04-20": 40,
       "2024-04-15": 61,
-      "2024-04-10": 67,
-      "2024-01-22": 657
+      "2024-04-10": 67
     }
   },
   {
@@ -147,18 +146,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gr-server-claro",
     "status": "down",
-    "uptime": "27.26%",
+    "uptime": "27.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 716,
+    "time": 711,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-20": 28,
+      "2025-01-21": 27,
+      "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -521,8 +521,7 @@
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
-      "2024-01-23": 1440,
-      "2024-01-22": 1440
+      "2024-01-23": 1440
     }
   },
   {
@@ -531,7 +530,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pellit-tarmm",
     "status": "down",
-    "uptime": "40.20%",
+    "uptime": "40.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -542,7 +541,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-20": 28,
+      "2025-01-21": 27,
+      "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -905,8 +905,7 @@
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
-      "2024-01-23": 1440,
-      "2024-01-22": 1440
+      "2024-01-23": 1440
     }
   },
   {
@@ -921,9 +920,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 931,
-    "timeDay": 530,
-    "timeWeek": 791,
-    "timeMonth": 926,
+    "timeDay": 535,
+    "timeWeek": 776,
+    "timeMonth": 923,
     "timeYear": 934,
     "dailyMinutesDown": {
       "2024-12-10": 116,
