@@ -13,7 +13,7 @@
     "time": 1630,
     "timeDay": 1691,
     "timeWeek": 1521,
-    "timeMonth": 1480,
+    "timeMonth": 1475,
     "timeYear": 1640,
     "dailyMinutesDown": {
       "2025-02-12": 17,
@@ -48,7 +48,7 @@
     "time": 1662,
     "timeDay": 1541,
     "timeWeek": 1550,
-    "timeMonth": 1633,
+    "timeMonth": 1622,
     "timeYear": 1646,
     "dailyMinutesDown": {
       "2025-03-21": 32,
@@ -79,7 +79,7 @@
     "time": 1031,
     "timeDay": 976,
     "timeWeek": 751,
-    "timeMonth": 864,
+    "timeMonth": 845,
     "timeYear": 1019,
     "dailyMinutesDown": {
       "2024-08-12": 68,
@@ -110,19 +110,20 @@
     "url": "$API_SEF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gr-server-fibercorp",
-    "status": "down",
+    "status": "up",
     "uptime": "89.45%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.55%",
-    "time": 591,
-    "timeDay": 615,
-    "timeWeek": 864,
-    "timeMonth": 591,
+    "time": 592,
+    "timeDay": 641,
+    "timeWeek": 850,
+    "timeMonth": 590,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2025-03-28": 1,
+      "2025-03-29": 21,
+      "2025-03-28": 2,
       "2025-03-26": 46,
       "2025-03-17": 15,
       "2025-03-11": 36,
@@ -163,7 +164,7 @@
     "uptime": "24.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -171,7 +172,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-28": 1439,
+      "2025-03-29": 21,
+      "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -534,8 +536,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   },
   {
@@ -547,7 +548,7 @@
     "uptime": "36.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -555,7 +556,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-28": 1439,
+      "2025-03-29": 22,
+      "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -918,8 +920,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   },
   {
@@ -936,7 +937,7 @@
     "time": 925,
     "timeDay": 1112,
     "timeWeek": 828,
-    "timeMonth": 829,
+    "timeMonth": 820,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2025-02-10": 54,
