@@ -7,16 +7,8 @@ sites:
     url: $PAGE_MUSIC
   - name: PELLIT-PAGE
     url: https://pellit.com.ar/
-  - name: HOSS-PAGE
-    url: $PAGE_HOSS
-  - name: GR-GRA
-    url: $API_GRAF
-  - name: GR-Server-Fibercorp
-    url: $API_SEF
-  - name: GR-Server-Claro
-    url: $API_SEC
-  - name: PELLIT_TARMM 
-    url: $API_TA
+  - name: HYA_PELLIT
+    url: $API_HYA
   - name: Autogestion 
     url: $API_AM
 
