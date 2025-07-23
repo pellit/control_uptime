@@ -1,7 +1,7 @@
 url: $API_HYA
-status: down
-code: 500
-responseTime: 1050
-lastUpdated: 2025-07-23T05:47:24.179Z
+status: up
+code: 200
+responseTime: 1472
+lastUpdated: 2025-07-23T05:55:44.033Z
 startTime: 2025-07-19T13:01:29.050Z
 generator: Upptime <https://github.com/upptime/upptime>
