@@ -11,8 +11,8 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.46%",
     "time": 1589,
-    "timeDay": 1616,
-    "timeWeek": 1400,
+    "timeDay": 1560,
+    "timeWeek": 1422,
     "timeMonth": 1445,
     "timeYear": 1579,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "99.83%",
     "time": 1678,
     "timeDay": 1375,
-    "timeWeek": 1444,
+    "timeWeek": 1325,
     "timeMonth": 1512,
     "timeYear": 1711,
     "dailyMinutesDown": {
@@ -84,18 +84,20 @@
     "url": "$API_HYA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hya-pellit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1370,
-    "timeDay": 1342,
-    "timeWeek": 1337,
-    "timeMonth": 1351,
-    "timeYear": 1370,
-    "dailyMinutesDown": {}
+    "time": 1372,
+    "timeDay": 1400,
+    "timeWeek": 1349,
+    "timeMonth": 1353,
+    "timeYear": 1372,
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   },
   {
     "name": "Autogestion",
@@ -109,8 +111,8 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.90%",
     "time": 962,
-    "timeDay": 6367,
-    "timeWeek": 1605,
+    "timeDay": 487,
+    "timeWeek": 1735,
     "timeMonth": 1248,
     "timeYear": 977,
     "dailyMinutesDown": {
