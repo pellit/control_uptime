@@ -1,7 +1,7 @@
 url: https://pellit.com.ar/
-status: up
-code: 200
-responseTime: 2616
-lastUpdated: 2025-11-17T21:52:59.666Z
+status: down
+code: 415
+responseTime: 931
+lastUpdated: 2025-11-17T22:35:46.790Z
 startTime: 2022-03-06T21:57:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
