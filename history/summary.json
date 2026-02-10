@@ -11,9 +11,9 @@
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.70%",
     "time": 1387,
-    "timeDay": 1125,
-    "timeWeek": 1256,
-    "timeMonth": 1267,
+    "timeDay": 1179,
+    "timeWeek": 1248,
+    "timeMonth": 1271,
     "timeYear": 1360,
     "dailyMinutesDown": {
       "2026-02-09": 50,
@@ -60,8 +60,7 @@
       "2025-07-01": 172,
       "2025-04-17": 49,
       "2025-04-01": 36,
-      "2025-02-12": 17,
-      "2025-02-10": 44
+      "2025-02-12": 17
     }
   },
   {
@@ -76,9 +75,9 @@
     "uptimeMonth": "98.53%",
     "uptimeYear": "97.23%",
     "time": 1610,
-    "timeDay": 2054,
-    "timeWeek": 1584,
-    "timeMonth": 1666,
+    "timeDay": 1710,
+    "timeWeek": 1582,
+    "timeMonth": 1672,
     "timeYear": 1600,
     "dailyMinutesDown": {
       "2026-02-09": 50,
@@ -145,18 +144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hya-pellit",
     "status": "down",
-    "uptime": "50.18%",
+    "uptime": "50.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.18%",
+    "uptimeYear": "50.15%",
     "time": 1523,
-    "timeDay": 1399,
-    "timeWeek": 1597,
-    "timeMonth": 1556,
+    "timeDay": 1584,
+    "timeWeek": 1574,
+    "timeMonth": 1558,
     "timeYear": 1523,
     "dailyMinutesDown": {
-      "2026-02-09": 1307,
+      "2026-02-10": 49,
+      "2026-02-09": 1440,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -274,10 +274,10 @@
     "uptimeWeek": "96.62%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "99.70%",
-    "time": 963,
-    "timeDay": 725,
-    "timeWeek": 959,
-    "timeMonth": 1033,
+    "time": 964,
+    "timeDay": 789,
+    "timeWeek": 958,
+    "timeMonth": 1040,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2026-02-09": 50,
@@ -323,8 +323,7 @@
       "2025-08-04": 16,
       "2025-07-27": 18,
       "2025-07-01": 172,
-      "2025-04-17": 19,
-      "2025-02-10": 54
+      "2025-04-17": 19
     }
   }
 ]
