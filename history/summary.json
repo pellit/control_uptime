@@ -4,16 +4,16 @@
     "url": "$PAGE_MUSIC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mu-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "94.83%",
+    "uptimeDay": "94.81%",
     "uptimeWeek": "97.72%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "99.55%",
     "time": 1371,
-    "timeDay": 1319,
-    "timeWeek": 1343,
-    "timeMonth": 1344,
+    "timeDay": 1280,
+    "timeWeek": 1337,
+    "timeMonth": 1342,
     "timeYear": 1350,
     "dailyMinutesDown": {
       "2026-03-12": 74,
@@ -69,8 +69,7 @@
       "2025-12-15": 0,
       "2025-12-12": 20,
       "2025-12-10": 18,
-      "2025-12-09": 18,
-      "2025-12-07": 17
+      "2025-12-09": 18
     }
   },
   {
@@ -78,17 +77,17 @@
     "url": "https://pellit.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pellit.com.ar.ico",
     "slug": "pellit-page",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "94.83%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "94.81%",
     "uptimeWeek": "97.40%",
     "uptimeMonth": "97.18%",
-    "uptimeYear": "99.53%",
-    "time": 1622,
-    "timeDay": 1174,
-    "timeWeek": 1363,
-    "timeMonth": 1683,
-    "timeYear": 1612,
+    "uptimeYear": "99.54%",
+    "time": 1621,
+    "timeDay": 1166,
+    "timeWeek": 1354,
+    "timeMonth": 1680,
+    "timeYear": 1611,
     "dailyMinutesDown": {
       "2026-03-12": 74,
       "2026-03-11": 27,
@@ -139,8 +138,7 @@
       "2025-12-24": 32,
       "2025-12-21": 19,
       "2025-12-18": 22,
-      "2025-12-16": 74,
-      "2025-12-15": 0
+      "2025-12-16": 35
     }
   },
   {
@@ -149,18 +147,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hya-pellit",
     "status": "down",
-    "uptime": "43.62%",
+    "uptime": "43.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "43.62%",
+    "uptimeYear": "43.61%",
     "time": 1523,
     "timeDay": 1422,
     "timeWeek": 1501,
     "timeMonth": 1534,
     "timeYear": 1523,
     "dailyMinutesDown": {
-      "2026-03-12": 1168,
+      "2026-03-12": 1225,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -303,16 +301,16 @@
     "url": "$API_AM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "autogestion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "94.83%",
+    "uptimeDay": "94.81%",
     "uptimeWeek": "97.71%",
     "uptimeMonth": "97.36%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 963,
-    "timeDay": 848,
-    "timeWeek": 922,
-    "timeMonth": 987,
+    "timeDay": 856,
+    "timeWeek": 921,
+    "timeMonth": 986,
     "timeYear": 969,
     "dailyMinutesDown": {
       "2026-03-12": 74,
@@ -367,8 +365,7 @@
       "2025-12-15": 0,
       "2025-12-12": 20,
       "2025-12-10": 18,
-      "2025-12-09": 18,
-      "2025-12-07": 18
+      "2025-12-09": 18
     }
   }
 ]
