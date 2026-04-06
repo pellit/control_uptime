@@ -1,7 +1,7 @@
 url: $PAGE_MUSIC
-status: up
-code: 200
-responseTime: 1606
-lastUpdated: 2026-04-05T23:05:45.506Z
+status: down
+code: 415
+responseTime: 1078
+lastUpdated: 2026-04-06T20:59:49.067Z
 startTime: 2022-03-06T21:57:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
