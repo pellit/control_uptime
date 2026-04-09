@@ -1,7 +1,7 @@
 url: $API_AM
-status: down
-code: 415
-responseTime: 1018
-lastUpdated: 2026-04-09T13:05:03.141Z
+status: up
+code: 302
+responseTime: 793
+lastUpdated: 2026-04-09T13:42:50.681Z
 startTime: 2024-01-03T17:52:15.435Z
 generator: Upptime <https://github.com/upptime/upptime>
