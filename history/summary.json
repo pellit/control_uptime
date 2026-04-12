@@ -4,14 +4,14 @@
     "url": "$PAGE_MUSIC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mu-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "83.72%",
+    "uptimeDay": "83.80%",
     "uptimeWeek": "91.92%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "99.53%",
     "time": 1348,
-    "timeDay": 1222,
+    "timeDay": 1224,
     "timeWeek": 1228,
     "timeMonth": 1276,
     "timeYear": 1338,
@@ -61,7 +61,7 @@
       "2026-02-17": 76,
       "2026-02-16": 46,
       "2026-02-15": 126,
-      "2026-02-14": 38
+      "2026-02-14": 23
     }
   },
   {
@@ -69,16 +69,16 @@
     "url": "https://pellit.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pellit.com.ar.ico",
     "slug": "pellit-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "83.70%",
+    "uptimeDay": "83.78%",
     "uptimeWeek": "91.91%",
     "uptimeMonth": "96.96%",
-    "uptimeYear": "99.52%",
-    "time": 1596,
-    "timeDay": 1534,
-    "timeWeek": 1467,
-    "timeMonth": 1492,
+    "uptimeYear": "99.53%",
+    "time": 1605,
+    "timeDay": 1529,
+    "timeWeek": 1462,
+    "timeMonth": 1490,
     "timeYear": 1588,
     "dailyMinutesDown": {
       "2026-04-12": 203,
@@ -125,7 +125,7 @@
       "2026-02-17": 76,
       "2026-02-16": 46,
       "2026-02-15": 126,
-      "2026-02-14": 23
+      "2026-02-14": 1
     }
   },
   {
@@ -145,7 +145,7 @@
     "timeMonth": 1411,
     "timeYear": 1511,
     "dailyMinutesDown": {
-      "2026-04-12": 1181,
+      "2026-04-12": 1195,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -319,15 +319,15 @@
     "url": "$API_AM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "autogestion",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "83.68%",
-    "uptimeWeek": "91.91%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "83.76%",
+    "uptimeWeek": "91.90%",
     "uptimeMonth": "96.95%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 967,
-    "timeDay": 1560,
-    "timeWeek": 1078,
+    "timeDay": 1567,
+    "timeWeek": 1076,
     "timeMonth": 981,
     "timeYear": 974,
     "dailyMinutesDown": {
@@ -375,7 +375,7 @@
       "2026-02-17": 77,
       "2026-02-16": 46,
       "2026-02-15": 126,
-      "2026-02-14": 56
+      "2026-02-14": 38
     }
   }
 ]
