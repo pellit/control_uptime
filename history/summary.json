@@ -4,16 +4,16 @@
     "url": "$PAGE_MUSIC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mu-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "92.39%",
+    "uptimeDay": "92.38%",
     "uptimeWeek": "91.07%",
     "uptimeMonth": "96.56%",
-    "uptimeYear": "99.52%",
-    "time": 1359,
-    "timeDay": 1458,
-    "timeWeek": 1261,
-    "timeMonth": 1272,
+    "uptimeYear": "99.53%",
+    "time": 1358,
+    "timeDay": 1454,
+    "timeWeek": 1266,
+    "timeMonth": 1275,
     "timeYear": 1338,
     "dailyMinutesDown": {
       "2026-04-14": 110,
@@ -61,7 +61,7 @@
       "2026-02-19": 77,
       "2026-02-18": 73,
       "2026-02-17": 76,
-      "2026-02-16": 46
+      "2026-02-16": 18
     }
   },
   {
@@ -69,15 +69,15 @@
     "url": "https://pellit.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/pellit.com.ar.ico",
     "slug": "pellit-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "92.38%",
+    "uptimeDay": "92.36%",
     "uptimeWeek": "91.06%",
     "uptimeMonth": "96.56%",
     "uptimeYear": "99.52%",
-    "time": 1605,
-    "timeDay": 2134,
-    "timeWeek": 1549,
+    "time": 1604,
+    "timeDay": 1877,
+    "timeWeek": 1543,
     "timeMonth": 1546,
     "timeYear": 1591,
     "dailyMinutesDown": {
@@ -124,8 +124,7 @@
       "2026-02-20": 31,
       "2026-02-19": 77,
       "2026-02-18": 73,
-      "2026-02-17": 76,
-      "2026-02-16": 18
+      "2026-02-17": 76
     }
   },
   {
@@ -140,12 +139,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "38.26%",
     "time": 1510,
-    "timeDay": 1400,
-    "timeWeek": 1282,
-    "timeMonth": 1409,
+    "timeDay": 1443,
+    "timeWeek": 1315,
+    "timeMonth": 1410,
     "timeYear": 1510,
     "dailyMinutesDown": {
-      "2026-04-14": 1385,
+      "2026-04-14": 1423,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
@@ -321,16 +320,16 @@
     "url": "$API_AM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "autogestion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "92.38%",
+    "uptimeDay": "92.36%",
     "uptimeWeek": "91.05%",
     "uptimeMonth": "96.55%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 964,
-    "timeDay": 845,
-    "timeWeek": 1041,
-    "timeMonth": 979,
+    "timeDay": 847,
+    "timeWeek": 1038,
+    "timeMonth": 977,
     "timeYear": 972,
     "dailyMinutesDown": {
       "2026-04-14": 110,
@@ -377,8 +376,7 @@
       "2026-02-19": 77,
       "2026-02-18": 73,
       "2026-02-17": 77,
-      "2026-02-16": 46,
-      "2026-02-15": 16
+      "2026-02-16": 46
     }
   }
 ]
